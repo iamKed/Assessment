@@ -1,0 +1,15 @@
+.rfp-card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.rfp-budget {
+  margin-top: 10px;
+  color: #666;
+  font-size: 14px;
+}
+
+.proposal-count {
+  color: #666;
+  font-size: 14px;
+}

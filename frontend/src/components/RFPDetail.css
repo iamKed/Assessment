@@ -1,0 +1,37 @@
+.back-link {
+  color: #666;
+  text-decoration: none;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.back-link:hover {
+  color: #4CAF50;
+}
+
+.vendor-selection {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.vendor-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.vendor-checkbox:hover {
+  background-color: #f5f5f5;
+}
+
+.vendor-checkbox input[type="checkbox"] {
+  width: auto;
+  cursor: pointer;
+}

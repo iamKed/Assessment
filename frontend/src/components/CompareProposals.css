@@ -1,0 +1,31 @@
+.recommendation-card {
+  background-color: #e8f5e9;
+  border-left: 4px solid #4CAF50;
+}
+
+.recommended-badge {
+  background-color: #4CAF50;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: bold;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.proposal-section {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.proposal-section:last-child {
+  border-bottom: none;
+}
+
+.proposal-section h4 {
+  color: #333;
+  margin-bottom: 10px;
+  font-size: 16px;
+}

@@ -1,0 +1,42 @@
+Here are 20 procurement requests written in natural language, covering various industries and departments. These are designed to be realistic and ready for use in testing or documentation.
+Procurement Sample Requests
+
+    IT Operations: We need 30 high-performance workstations for our engineering team. Minimum specs: i9 processor, 64GB RAM, and NVIDIA RTX 4070 or equivalent. Must include 3-year on-site support and accidental damage protection. We require delivery within 14 business days.
+
+    Marketing Department: Our creative team requires 15 tablets for digital sketching. Looking for the latest iPad Pro 11-inch models with 512GB storage and compatible pressure-sensitive styluses. We need a bulk discount quote and a secondary quote for protective rugged cases.
+
+    Facility Management: Seeking a vendor to supply 100 ergonomic mesh task chairs for our headquarters. Requirements: adjustable lumbar support, 4D armrests, and a weight capacity of 300 lbs. Vendor must provide assembly on-site and removal of old furniture.
+
+    Security & Compliance: We are looking to upgrade our office surveillance. We need 40 4K PoE IP cameras with night vision and motion detection. Must be compatible with Milestone XProtect software. Please include a quote for a 64-channel NVR with 24TB of storage.
+
+    Customer Success: Our support center needs 75 noise-canceling USB-C headsets. They must be lightweight for all-day wear and feature a "busy light" indicator. Preference for brands with a centralized management software for firmware updates.
+
+    Logistics: We need 20 handheld industrial barcode scanners for our distribution center. Must be ruggedized (IP65 rating), drop-proof from 6 feet, and able to sync with SAP via Wi-Fi. We are interested in a 3-year replacement plan for hardware failures.
+
+    Human Resources: We are launching a wellness program and need 200 fitness trackers. Requirements: heart rate monitoring, water resistance, and a user-friendly mobile app. We need these individually boxed with a custom company logo printed on the strap.
+
+    Research & Development: We require a high-precision 3D printer for rapid prototyping using carbon fiber-reinforced filaments. Must have a minimum build volume of 300x300x300mm and a heated chamber. Include a starter kit of 10kg assorted filament.
+
+    Education/Training: We need to outfit a training room with 12 interactive 65-inch touchscreens. Must support wireless casting from Windows and Mac devices. Vendor should handle wall-mounting and initial software calibration.
+
+    Admin/Finance: Our accounting firm needs 10 high-speed duplex document scanners. Must be capable of 60 pages per minute and feature automatic blank page removal. We prefer a model with a small desktop footprint and TWAIN driver support.
+
+    Software Engineering: We are looking to purchase 50 licenses for a premium IDE (JetBrains All Products Pack) on an annual subscription. We require a centralized license management console to reassign seats as staff fluctuates.
+
+    Sales Department: We need 25 portable projectors for our field sales team. They must be under 2 lbs, offer at least 500 ANSI lumens, and have built-in batteries for 2-hour presentations. HDMI and USB-C inputs are mandatory.
+
+    Healthcare/Clinic: We are procuring 15 medical-grade rolling laptop carts (COWs) with integrated battery systems for 8-hour shifts. Surfaces must be antimicrobial and easy to disinfect. Looking for a vendor with experience in hospital environments.
+
+    Events/PR: For our upcoming conference, we need 500 custom-branded 10,000mAh power banks. Must feature fast-charging (PD) and include a 3-in-1 charging cable. We need a digital mockup of the logo placement before finalizing the order.
+
+    IT Infrastructure: We are expanding our server room and need 5 rack-mountable UPS units (3000VA). Must include network management cards for remote monitoring. Vendor must be able to dispose of the old lead-acid batteries according to local environmental regulations.
+
+    Legal Department: We need a 3-year subscription for an AI-powered contract lifecycle management (CLM) tool for 10 users. Key requirements include OCR searching, automated renewal alerts, and integration with Microsoft Word.
+
+    Operations: Seeking a bulk order of 200 standing desk converters (varidesks). Must be able to hold dual 27-inch monitors and transition smoothly between sitting and standing heights. Preference for a vendor who offers a "try-before-you-buy" demo unit.
+
+    Content Team: We need a professional podcasting kit for our studio: 4 Shure SM7B microphones, a Rødecaster Pro II mixer, and 4 pairs of studio-monitor headphones. Please include all necessary XLR cables and boom arms.
+
+    Retail Ops: We need 15 POS terminals for our new branch. Each unit must have a 15-inch touchscreen, an integrated receipt printer, and a customer-facing display. Must be compatible with Shopify POS software.
+
+    General Office: We are looking for a managed print services contract for 5 heavy-duty color laser copiers. Must include all toner, maintenance, and a guaranteed 4-hour on-site response time for repairs. Billing should be based on a fixed monthly fee plus a per-page click rate.
